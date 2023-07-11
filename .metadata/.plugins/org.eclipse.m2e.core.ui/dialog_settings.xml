@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\mehad\eclipse-workspace\Springs\spring_mvc_basic2\src\main\java\dao\ProductDao.java"/>
+			<item value="C:\Users\mehad\eclipse-workspace\Springs\spring_mvc_basic2\src\main\webapp\display.jsp"/>
+			<item value="C:\Users\mehad\eclipse-workspace\Springs\spring_mvcbasic2"/>
+			<item value="C:\Users\mehad\eclipse-workspace\Springs\project-ioc1\src\main\java\dir.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.jese8.Banking_Application"/>
+			<item value="com.jese8.idfcmock"/>
+			<item value="com.jese8.droame_project"/>
+			<item value="com.jese8.spring_mvc_basic2"/>
+			<item value="com.jese8.bookmyshow"/>
+			<item value="com.jese8.springmvccrud"/>
+			<item value="com.servlet.spring_mvcbasic2"/>
+			<item value="com.servlet.springmvcbasic2"/>
+			<item value="com.servlet.servlet_valida"/>
+			<item value="com.servlet.servlet_valid"/>
+			<item value="com.servlet.servlet_validation"/>
+			<item value="com.servlet.sessiontracking"/>
+		</list>
+		<list key="groupId">
+			<item value="com.jese8"/>
+			<item value="com.servlet"/>
+		</list>
+		<list key="artifactId">
+			<item value="Banking_Application"/>
+			<item value="idfcmock"/>
+			<item value="droame_project"/>
+			<item value="spring_mvc_basic2"/>
+			<item value="bookmyshow"/>
+			<item value="springmvccrud"/>
+			<item value="spring_mvcbasic2"/>
+			<item value="springmvcbasic2"/>
+			<item value="servlet_valida"/>
+			<item value="servlet_valid"/>
+			<item value="servlet_validation"/>
+			<item value="sessiontracking"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\mehad\Downloads\springbootbasics (1)"/>
+			<item value="C:\Users\mehad\Downloads\springbootbasics"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

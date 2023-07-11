@@ -1,0 +1,13 @@
+127.0.0.1 - - [04/Jul/2023:00:08:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:08:17 +0530] "GET /Banking_Application/home.html HTTP/1.1" 200 348
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:08:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:08:22 +0530] "GET /Banking_Application/signup.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:10:02 +0530] "POST /Banking_Application/customersignup HTTP/1.1" 200 440
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:14:12 +0530] "GET /Banking_Application/signup.html HTTP/1.1" 200 1669
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:15:32 +0530] "POST /Banking_Application/customersignup HTTP/1.1" 200 440
+127.0.0.1 - - [04/Jul/2023:00:59:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:00:59:59 +0530] "GET /Banking_Application/login.html HTTP/1.1" 200 611
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:01:03:59 +0530] "GET /Banking_Application/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:01:04:01 +0530] "GET /Banking_Application/login.html HTTP/1.1" 200 611
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:01:04:33 +0530] "POST /Banking_Application/customerlogin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:01:04:33 +0530] "GET /Banking_Application/customerhome.html HTTP/1.1" 200 149
